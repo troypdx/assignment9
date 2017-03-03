@@ -3,7 +3,7 @@
 export DOCKER_REPO=troypdx
 export DOCKER_IMAGE=homeless-service
 export PROJ_SETTINGS_DIR=homelessAPI
-export DEPLOY_TARGET=INTEGRATION
+export DEPLOY_TARGET=integration
 echo "##############################"
 echo  Your Local Project Environment
 echo "##############################"
