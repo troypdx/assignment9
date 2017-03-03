@@ -1,9 +1,9 @@
 #! /bin/bash
 # Setup Project Specfics - No Secrets
-export DOCKER_REPO=pdxdiver
+export DOCKER_REPO=troypdx
 export DOCKER_IMAGE=homeless-service
 export PROJ_SETTINGS_DIR=homelessAPI
-export DEPLOY_TARGET=LOCAL
+export DEPLOY_TARGET=INTEGRATION
 echo "##############################"
 echo  Your Local Project Environement
 echo "##############################"
