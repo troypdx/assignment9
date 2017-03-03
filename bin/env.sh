@@ -5,7 +5,7 @@ export DOCKER_IMAGE=homeless-service
 export PROJ_SETTINGS_DIR=homelessAPI
 export DEPLOY_TARGET=INTEGRATION
 echo "##############################"
-echo  Your Local Project Environement
+echo  Your Local Project Environment
 echo "##############################"
 echo DOCKER_REPO: $DOCKER_REPO
 echo DOCKER_WEB_IMAGE: $DOCKER_IMAGE
