@@ -6,5 +6,6 @@ before_install:
   - ./bin/config-build-container.sh
 script:
   - ./bin/test-proj.sh
+  - docker build -t homeless-service .
 after_success:
   - ./bin/push.sh
